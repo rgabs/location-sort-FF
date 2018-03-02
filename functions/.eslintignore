@@ -1,0 +1,4 @@
+**/*.test.js 
+# Since tests contain ES7 features
+
+coverage/**/*.js
